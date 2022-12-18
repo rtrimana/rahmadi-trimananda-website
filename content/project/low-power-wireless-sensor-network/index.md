@@ -4,7 +4,7 @@ subtitle: ""
 date: 2020-09-30T21:23:17.584Z
 draft: false
 featured: false
-external_link: https://rahmadi-trimananda.netlify.app/
+external_link: https://rtrimana.github.io/
 image:
   filename: featured
   focal_point: Smart
