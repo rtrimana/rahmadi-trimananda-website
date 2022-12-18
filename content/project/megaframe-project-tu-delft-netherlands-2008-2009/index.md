@@ -3,7 +3,7 @@ title: Megaframe Project
 date: 2020-09-30T21:27:26.745Z
 draft: false
 featured: false
-external_link: https://ec.europa.eu/digital-single-market/en/news/time-flight-based-single-photon-detectors-long-journey-lab-market
+external_link: https://www.epfl.ch/labs/aqua/page-26733-en-html/page-96286-en-html/
 image:
   filename: featured
   focal_point: Smart
