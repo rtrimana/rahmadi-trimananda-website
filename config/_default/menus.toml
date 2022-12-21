@@ -12,6 +12,11 @@
   name = "News"
   url = "#posts"
   weight = 20
+
+[[main]]
+  name = "Awards & Honors"
+  url = "#accomplishments"
+  weight = 25
   
 [[main]]
   name = "Projects"
@@ -32,6 +37,11 @@
   name = "CV"
   url = "https://drive.google.com/file/d/1pYrGAeHVDJQNrpHGl7nGvy6ryODaZQ-m/view?usp=sharing"
   weight = 60
+
+[[main]]
+  name = "Google Scholar"
+  url = "https://scholar.google.com/citations?user=bO3NtXMAAAAJ&hl=en&oi=ao"
+  weight = 70
 
 #[[main]]
 #  name = "Contact"
