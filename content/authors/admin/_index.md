@@ -46,7 +46,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-<span style="background-color:yellow"> **I'm on the job market in 2023, looking for a research scientist position in industry!**</span>
+<span style="background-color:yellow"><font color="black"> **I'm on the job market in 2023, looking for a research scientist position in industry!</font>**</span>
 
 I am currently a Project Scientist in [the Networking Group led by Prof. Athina Markopoulou at University of California, Irvine](https://athinagroup.eng.uci.edu/) and the [ProperData Center](https://properdata.eng.uci.edu/). I currently work on the intersection between computer science and engineering, namely hardware and software, policy, and laws, with emphasis on security and privacy, especially for Internet of Things (IoT).
 
