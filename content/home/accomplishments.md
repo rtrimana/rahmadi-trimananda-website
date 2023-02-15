@@ -84,7 +84,7 @@ date_format = "Jan 2006"
   title = "Best Paper Award"
   url = ""
   certificate_url = ""
-  date_start = "2002-10-01"
+  date_start = "2006-10-01"
   date_end = ""
   description = ""
 
