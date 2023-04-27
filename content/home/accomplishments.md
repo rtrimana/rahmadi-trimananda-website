@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Institute of Electrical and Electronics Engineers (IEEE)"
+  organization_url = "https://www.ieee.org/"
+  title = "IEEE Senior Member Grade Elevation"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-04-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Broadcom Foundation"
   organization_url = "https://broadcomfoundation.org/"
   title = "Broadcom Foundation Fellowship Award"
