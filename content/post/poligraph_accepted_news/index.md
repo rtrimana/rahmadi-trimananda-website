@@ -1,15 +1,18 @@
 ---
-title: 'IEEE Senior Member grade elevation'
-subtitle: 'I was elevated to IEEE Senior Member grade in April 2023. Thank you, IEEE!'
-summary: I was elevated to IEEE Senior Member grade in April 2023. Thank you, IEEE!
+title: 'PoliGraph: Automated Privacy Policy Analysis using Knowledge Graphs has been accepted to USENIX Security 2023!'
+# subtitle: ''
+summary: 'Our work, PoliGraph: Automated Privacy Policy Analysis using Knowledge Graphs has been accepted to USENIX Security 2023.'
 authors:
+- Hao Cui
 - Rahmadi Trimananda
+- Athina Markopoulou
+- Scott Jordan
 tags:
-- IEEE Membership
+- Publication
 categories:
-- Promotion
-date: "2023-04-22T00:00:00Z"
-lastmod: "2023-04-22T00:00:00Z"
+- Publication
+date: "2023-06-06T00:00:00Z"
+lastmod: "2023-06-06T00:00:00Z"
 featured: false
 draft: false
 
@@ -19,7 +22,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [USENIX 2023](https://www.usenix.org/conference/usenixsecurity23)'
   focal_point: "Smart"
   preview_only: false
 
@@ -30,3 +33,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+See [PoliGraph: Automated Privacy Policy Analysis using Knowledge Graphs](https://www.usenix.org/conference/usenixsecurity23/presentation/cui).
