@@ -27,9 +27,9 @@ publication_short: In *USENIX Security 2023*
 featured: true
 
 links:
-url_pdf: 
-url_code: 
-url_dataset: 
-url_slides: 
-url_video: 
+url_pdf: https://www.usenix.org/conference/usenixsecurity23/presentation/cui
+url_code: https://github.com/UCI-Networking-Group/PoliGraph
+url_dataset: https://athinagroup.eng.uci.edu/projects/auditing-and-policy-analysis/poligraph-dataset/
+url_slides: https://www.usenix.org/conference/usenixsecurity23/presentation/cui
+url_video: https://www.usenix.org/conference/usenixsecurity23/presentation/cui
 ---

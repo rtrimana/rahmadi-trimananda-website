@@ -20,8 +20,8 @@ publishDate: "2022-08-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 31st USENIX Security Symposium (USENIX Security 2022)*
-publication_short: In *USENIX Security 2022*
+publication: In *Proceedings of the 31st USENIX Security Symposium (USENIX Security 2022)*. <a href="https://www.ftc.gov/news-events/events/2022/11/privacycon-2022"><span style="background-color:tomato">**Appeared at PrivacyCon 2022**</span></a>
+publication_short: In *USENIX Security 2022*. <a href="https://www.ftc.gov/news-events/events/2022/11/privacycon-2022"><span style="background-color:tomato">**Appeared at PrivacyCon 2022**</span></a>
 
 # Summary. An optional shortened abstract.
 #summary: USENIX Security 2022
@@ -32,6 +32,6 @@ links:
 url_pdf: https://athinagroup.eng.uci.edu/projects/ovrseen/
 url_code: https://github.com/UCI-Networking-Group/OVRseen
 url_dataset: https://athinagroup.eng.uci.edu/projects/ovrseen/ovrseen-datasets/
-url_slides: 
-url_video: 
+url_slides: https://www.usenix.org/conference/usenixsecurity22/presentation/trimananda
+url_video: https://www.usenix.org/conference/usenixsecurity22/presentation/trimananda
 ---

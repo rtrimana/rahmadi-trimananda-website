@@ -1,7 +1,7 @@
 ---
-title: 'Tracking, Profiling, and Ad Targeting in the Alexa Echo Smart Speaker Ecosystem has been accepted to IMC 2023!'
+title: 'Tracking, Profiling, and Ad Targeting in the Alexa Echo Smart Speaker Ecosystem has been accepted to IMC 2023 and awarded a Best Paper Award!'
 # subtitle: ''
-summary: 'Our work, Tracking, Profiling, and Ad Targeting in the Alexa Echo Smart Speaker Ecosystem, has been accepted to IMC 2023.'
+summary: 'Our work, Tracking, Profiling, and Ad Targeting in the Alexa Echo Smart Speaker Ecosystem, has been accepted to IMC 2023 and awarded a Best Paper Award.'
 authors:
 - Umar Iqbal
 - Pouneh Nikkah Bahrami
