@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Privacy Enhancing Technologies Symposium (PETS)"
+  organization_url = "https://petsymposium.org/"
+  title = "The Caspar Bowden Award for Outstanding Research in Privacy Enhancing Technologies (Runner-up)"
+  url = ""
+  certificate_url = ""
+  date_start = "2024-07-18"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "ACM Internet Measurement Conference (ACM IMC)"
   organization_url = "https://conferences.sigcomm.org/imc/2023/"
   title = "Best Paper Award"
