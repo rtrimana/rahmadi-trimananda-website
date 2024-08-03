@@ -8,8 +8,8 @@ tags:
 - OWASP LASCON 2024
 categories:
 - Presentation
-date: "2024-10-24T00:00:00Z"
-lastmod: "2024-10-24T00:00:00Z"
+date: "2024-08-02T00:00:00Z"
+lastmod: "2024-08-02T00:00:00Z"
 featured: false
 draft: false
 

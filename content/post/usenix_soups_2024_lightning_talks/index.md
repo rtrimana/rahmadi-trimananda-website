@@ -8,8 +8,8 @@ tags:
 - USENIX SOUPS 2024 Lightning Talks
 categories:
 - Presentation
-date: "2024-08-12T00:00:00Z"
-lastmod: "2024-08-12T00:00:00Z"
+date: "2024-08-01T00:00:00Z"
+lastmod: "2024-08-01T00:00:00Z"
 featured: false
 draft: false
 

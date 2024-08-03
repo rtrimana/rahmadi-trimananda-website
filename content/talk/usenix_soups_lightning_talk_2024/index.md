@@ -10,7 +10,7 @@ abstract: "The talk presents our work on xCOMPASS at the USENIX SOUPS 2024 Light
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-08-12T13:00:00Z"
+date: "2024-08-02T13:00:00Z"
 #date_end: "2021-10-20T15:00:00Z"
 all_day: true
 
