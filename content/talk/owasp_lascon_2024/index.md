@@ -33,7 +33,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 - name: OWASP LASCON 2024
-  url: https://owasp.org/www-revent-lascon/
+  url: https://lascon.org/schedule/
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""

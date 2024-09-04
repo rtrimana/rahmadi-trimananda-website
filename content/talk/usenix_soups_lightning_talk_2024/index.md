@@ -33,7 +33,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 - name: USENIX SOUPS 2024
-  url: https://www.usenix.org/conference/soups2024
+  url: https://www.usenix.org/conference/soups2024/presentation/trimananda
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
