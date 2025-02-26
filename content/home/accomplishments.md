@@ -19,6 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Institute of Electrical and Electronics Engineers (IEEE)"
+  organization_url = "https://www.ieee.org/"
+  title = "2025 IEEE Philadelphia Section Delaware Valley Engineer of the Year Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2025-02-26"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "ACM Internet Measurement Conference (ACM IMC)"
+  organization_url = "https://conferences.sigcomm.org/imc/2024/"
+  title = "Best Student Paper Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2024-11-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Privacy Enhancing Technologies Symposium (PETS)"
   organization_url = "https://petsymposium.org/"
   title = "The Caspar Bowden Award for Outstanding Research in Privacy Enhancing Technologies (Runner-up)"
