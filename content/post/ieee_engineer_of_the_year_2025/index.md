@@ -1,5 +1,5 @@
 ---
-title: '2025 IEEE Philadelphia Section Delaware Valley Engineer of the Year Award'
+title: 'I am honored to have been selected to receive the 2025 IEEE Philadelphia Section Delaware Valley Engineer of the Year Award!'
 subtitle: 'I was selected to receive the prestigous 2025 IEEE Philadelphia Section Delaware Valley Engineer of the Year Award. Thank you, IEEE!'
 summary: I was selected to receive the prestigous 2025 IEEE Philadelphia Section Delaware Valley Engineer of the Year Award. Thank you, IEEE!
 authors:
