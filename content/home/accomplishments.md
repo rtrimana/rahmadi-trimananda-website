@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Association of Computing and Machinery (ACM)"
+  organization_url = "https://www.acn.org/"
+  title = "ACM Senior Member Grade Elevation"
+  url = ""
+  certificate_url = ""
+  date_start = "2025-10-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Institute of Electrical and Electronics Engineers (IEEE)"
   organization_url = "https://www.ieee.org/"
   title = "2025 IEEE Philadelphia Section Delaware Valley Engineer of the Year Award"

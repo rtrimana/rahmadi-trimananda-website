@@ -3,7 +3,7 @@ title: xCOMPASS
 date: 2024-03-04T18:44:10.110Z
 draft: false
 featured: false
-external_link: https://github.com/Comcast/xCompass/tree/main/xCOMPASS
+external_link: https://github.com/Comcast/xCOMPASS
 image:
   filename: featured
   focal_point: Smart
