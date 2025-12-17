@@ -47,7 +47,7 @@ user_groups:
   - Visitors
 ---
 
-I am a researcher, whose work is on the intersection between computer science and engineering, namely hardware and software, policy, and laws, with emphasis on security and privacy, especially for Internet of Things (IoT). I am currently a Privacy Research Engineer at [Comcast Cyber Security (CCS) Research](https://corporate.comcast.com/ccs-research).
+I am a cyber security researcher, whose work is on the intersection between computer science and engineering, namely hardware and software. I am currently a Research Engineer at [Comcast Cyber Security (CCS) Research](https://corporate.comcast.com/ccs-research). My current work is on quantum-safe systems, network security, privacy, and applied AI.
 
 <!--- 
 - **System**: a computing system consists of hardware and software; such system may have observable outputs, such as network traffic.
