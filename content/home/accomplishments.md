@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Comcast"
+  organization_url = "https://www.xfinity.com"
+  title = "Comcast's Innovation In Action Award - Everyday Innovator Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2026-02-26"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Association of Computing and Machinery (ACM)"
   organization_url = "https://www.acm.org/"
   title = "ACM Senior Member Grade Elevation"

@@ -1,15 +1,15 @@
 ---
-title: 'USENIX Security 2025 Notable Reviewer Award'
-subtitle: 'I was awarded a Notable Reviewer Award by USENIX Security 2025, a flagship cyber security conference. Thank you, USENIX Security!'
-summary: I was awarded a Notable Reviewer Award by USENIX Security 2025, a flagship cyber security conference. Thank you, USENIX Security!
+title: 'Innovation In Action Award'
+subtitle: 'I was awarded a Innovation In Action Award - Everyday Innovator Award category. Thank you, Comcast!'
+summary: I was awarded a Innovation In Action Award - Everyday Innovator Award category. Thank you, Comcast!
 authors:
 - Rahmadi Trimananda
 tags:
-- USENIX Security
+- Comcast Innovation In Action Award
 categories:
 - Promotion
-date: "2025-09-15T00:00:00Z"
-lastmod: "2025-09-15T00:00:00Z"
+date: "2026-02-26T00:00:00Z"
+lastmod: "2026-02-26T00:00:00Z"
 featured: false
 draft: false
 
