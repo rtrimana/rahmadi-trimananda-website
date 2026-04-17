@@ -1,6 +1,6 @@
 ---
 title: Rahmadi Trimananda
-role: Researcher
+role: Systems Architect & Researcher
 avatar_filename: RahmadiTrimananda-2024.jpg
 organizations:
   - name: Comcast Cyber Security (CCS) Research
@@ -8,7 +8,7 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include cybersecurity, software engineering, hardware
+bio: My interests include cybersecurity, software engineering, hardware
   engineering, and embedded systems.
 interests:
   - Cybersecurity
@@ -47,7 +47,7 @@ user_groups:
   - Visitors
 ---
 
-I am a cyber security researcher, whose work is on the intersection between computer science and engineering, namely hardware and software. I am currently a Research Engineer at [Comcast Cyber Security (CCS) Research](https://corporate.comcast.com/ccs-research). My current work is on quantum-safe systems, network security, privacy, and applied AI.
+I am a I am a systems architect and researcher specializing in the intersection of security, privacy, and applied AI with expertise from silicon to cloud. I am currently a Research Scientist at [Comcast Cyber Security (CCS) Research](https://corporate.comcast.com/ccs-research). My current work is on quantum-safety, network security, privacy, and applied AI.
 
 <!--- 
 - **System**: a computing system consists of hardware and software; such system may have observable outputs, such as network traffic.
