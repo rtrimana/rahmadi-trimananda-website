@@ -32,16 +32,21 @@
   name = "Talks"
   url = "#talks"
   weight = 50
+
+[[main]]
+  name = "Resume"
+  url = "https://drive.google.com/file/d/1l5ColGso4Xal5SdFXDDhlZymM3TdsWDQ/view?usp=sharing"
+  weight = 60
   
 [[main]]
   name = "CV"
   url = "https://drive.google.com/file/d/1fHfVgMAwyFne1gsk2AOPTVUngDdk-gk6/view?usp=drive_link"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Google Scholar"
   url = "https://scholar.google.com/citations?user=bO3NtXMAAAAJ&hl=en&oi=ao"
-  weight = 70
+  weight = 80
 
 #[[main]]
 #  name = "Contact"
