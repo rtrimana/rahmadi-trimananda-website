@@ -47,7 +47,7 @@ user_groups:
   - Visitors
 ---
 
-I am a I am a systems architect and researcher specializing in the intersection of security, privacy, and applied AI with expertise from silicon to cloud. I am currently a Research Scientist at [Comcast Cyber Security (CCS) Research](https://corporate.comcast.com/ccs-research). My current work is on quantum-safety, network security, privacy, and applied AI.
+I am a systems architect and researcher specializing in the intersection of security, privacy, and applied AI with expertise from silicon to cloud. I am currently a Research Scientist at [Comcast Cyber Security (CCS) Research](https://corporate.comcast.com/ccs-research). My current work is on quantum-safety, network security, privacy, and applied AI.
 
 <!--- 
 - **System**: a computing system consists of hardware and software; such system may have observable outputs, such as network traffic.
