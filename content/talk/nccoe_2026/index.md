@@ -1,5 +1,5 @@
 ---
-title: "Comcast PQC CoE Updates"
+title: "Comcast's PQC CoE Updates"
 event: Guest Speaker at NIST's National Cybersecurity Center of Excellence (NCCoE) Meeting
 event_url: 
 
